@@ -14,7 +14,7 @@
   <tr>
     <td align="center">
       <a href="doc/documentacao_techchallenge_1.pdf" target="_blank">
-        <img loading="lazy" src="img/Documents.png" width="100">
+        <img loading="lazy" src="img/documents.png" width="100">
       </a>
       <br>PDF
     </td>
